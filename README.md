@@ -1,6 +1,10 @@
 # TravelTide Project
 ## Links
-Colab: https://colab.research.google.com/drive/1atE_S40fd_tTm0FQ4i541fa1NgoHb0WU?usp=sharing
+Presentation Video: https://www.loom.com/share/9e9dda1d78be47f49f37eaf3742e3346?sid=29f7ee7b-7929-4864-af5a-5bd3adbb4c58
+
+Presentation: https://docs.google.com/presentation/d/1L1LjqKBCG3Rz38pRKVDHpQuLg-FGRv4Oo77fXx_lMD4/edit?usp=sharing
+
+Google Colab: https://colab.research.google.com/drive/1atE_S40fd_tTm0FQ4i541fa1NgoHb0WU?usp=sharing
 
 Executive Summary : https://github.com/sultanmr/travel-tide/blob/main/Executive%20Summary.pdf
 
