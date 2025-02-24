@@ -4,7 +4,7 @@ Colab: https://colab.research.google.com/drive/1atE_S40fd_tTm0FQ4i541fa1NgoHb0WU
 
 Executive Summary : https://github.com/sultanmr/travel-tide/blob/main/Executive%20Summary.pdf
 
-Detailed Report  : https://colab.research.google.com/drive/1atE_S40fd_tTm0FQ4i541fa1NgoHb0WU?usp=sharing
+Detailed Report  : https://github.com/sultanmr/travel-tide/blob/main/Detailed%20Report.pdf
 
 ## Overview
 TravelTide is a data-driven project aimed at analyzing user travel behavior to optimize targeted advertising and maximize company profits. The project integrates SQL, Python to perform user segmentation and recommendation modeling.
