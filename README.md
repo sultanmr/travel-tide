@@ -2,7 +2,7 @@
 ## Links
 Colab: https://colab.research.google.com/drive/1atE_S40fd_tTm0FQ4i541fa1NgoHb0WU?usp=sharing
 
-Executive Summary : https://colab.research.google.com/drive/1atE_S40fd_tTm0FQ4i541fa1NgoHb0WU?usp=sharing
+Executive Summary : [https://colab.research.google.com/drive/1atE_S40fd_tTm0FQ4i541fa1NgoHb0WU?usp=sharing](https://github.com/sultanmr/travel-tide/blob/main/Executive%20Summary.pdf)
 
 Detailed Report  : https://colab.research.google.com/drive/1atE_S40fd_tTm0FQ4i541fa1NgoHb0WU?usp=sharing
 
