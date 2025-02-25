@@ -5,14 +5,14 @@ user_id,recommended_offer
 101961,Discount at special events
 106907,10% off next trip
 118043,Free meal
-120851,Free child ticket
+120851,Discount at special events
 125845,Discount at special events
 133058,Free meal
-149058,Discount at special events
+149058,Free meal
 152583,Meal voucher
 153982,Meal voucher
 160754,Discount at special events
-164522,Free child ticket
+164522,Discount at special events
 174997,Meal voucher
 175032,Meal voucher
 181157,10% off next trip
@@ -23,7 +23,7 @@ user_id,recommended_offer
 204943,Meal voucher
 204997,10% off next trip
 205044,Free child ticket
-206011,Free child ticket
+206011,Discount at special events
 216796,10% off next trip
 217136,Free meal
 220725,Meal voucher
@@ -48,27 +48,27 @@ user_id,recommended_offer
 313724,Meal voucher
 316527,Discount at special events
 317688,Meal voucher
-322867,Free child ticket
+322867,Discount at special events
 324191,Meal voucher
 328590,Meal voucher
 330764,Free meal
 330893,Discount at special events
 331039,Free child ticket
 334787,Meal voucher
-337227,Free child ticket
+337227,Discount at special events
 338086,Meal voucher
 340166,Free meal
 343928,Discount at special events
 347778,Meal voucher
 348817,Meal voucher
 349132,Free meal
-350648,Free child ticket
+350648,Discount at special events
 353271,10% off next trip
 353694,10% off next trip
 354050,Meal voucher
 354260,Meal voucher
 354311,Discount at special events
-354950,Discount at special events
+354950,Free meal
 356046,Meal voucher
 357737,Discount at special events
 359072,Discount at special events
@@ -98,7 +98,7 @@ user_id,recommended_offer
 380949,Meal voucher
 381259,Meal voucher
 381465,Free meal
-382181,Discount at special events
+382181,Free meal
 382384,Discount at special events
 385689,Free meal
 386255,Free meal
@@ -111,9 +111,9 @@ user_id,recommended_offer
 388947,Meal voucher
 389434,Meal voucher
 389662,Meal voucher
-389759,Discount at special events
+389759,Free meal
 390811,Meal voucher
-392453,Free child ticket
+392453,Discount at special events
 395202,Free meal
 395981,Discount at special events
 396552,Discount at special events
@@ -129,7 +129,7 @@ user_id,recommended_offer
 403881,Free meal
 404879,Discount at special events
 405305,Discount at special events
-406210,Discount at special events
+406210,Free meal
 407118,Discount at special events
 407250,Meal voucher
 407275,Meal voucher
@@ -140,7 +140,7 @@ user_id,recommended_offer
 411179,Meal voucher
 411701,Meal voucher
 413128,Meal voucher
-413340,Free child ticket
+413340,Discount at special events
 413418,Meal voucher
 413658,Free meal
 414128,Meal voucher
@@ -160,7 +160,7 @@ user_id,recommended_offer
 421666,Meal voucher
 421700,Meal voucher
 421870,Meal voucher
-422066,Discount at special events
+422066,Free meal
 423042,Meal voucher
 423413,Free meal
 424553,Free meal
@@ -189,7 +189,7 @@ user_id,recommended_offer
 433080,Free child ticket
 433339,Free meal
 433905,Free meal
-434238,Free child ticket
+434238,Discount at special events
 434623,Meal voucher
 435231,Free meal
 435596,Meal voucher
@@ -197,7 +197,7 @@ user_id,recommended_offer
 435837,Meal voucher
 435882,Discount at special events
 436320,Free meal
-436894,Discount at special events
+436894,Free meal
 437069,Meal voucher
 437162,Meal voucher
 437251,Meal voucher
@@ -258,7 +258,7 @@ user_id,recommended_offer
 450615,Meal voucher
 451291,Discount at special events
 452034,Meal voucher
-452532,Discount at special events
+452532,Free meal
 452594,Meal voucher
 452612,Discount at special events
 453143,Meal voucher
@@ -277,7 +277,7 @@ user_id,recommended_offer
 457468,Free meal
 457599,Discount at special events
 458479,Free meal
-458688,Free child ticket
+458688,Discount at special events
 458725,Free meal
 458762,Discount at special events
 458814,Free meal
@@ -311,7 +311,7 @@ user_id,recommended_offer
 464782,Discount at special events
 464855,10% off next trip
 465138,Meal voucher
-465343,Discount at special events
+465343,Free meal
 465531,Discount at special events
 465568,Free meal
 465731,Meal voucher
@@ -319,7 +319,7 @@ user_id,recommended_offer
 466342,Free meal
 466723,Discount at special events
 467007,Meal voucher
-467092,Discount at special events
+467092,Free meal
 467339,Meal voucher
 467809,Meal voucher
 467892,Free child ticket
@@ -353,14 +353,14 @@ user_id,recommended_offer
 472614,Meal voucher
 472713,Discount at special events
 472785,Meal voucher
-472966,Free child ticket
+472966,Discount at special events
 473332,Discount at special events
 473343,Discount at special events
-473402,Discount at special events
+473402,Free meal
 473467,Discount at special events
 473568,Discount at special events
 473712,Meal voucher
-473847,Discount at special events
+473847,Free meal
 474007,Free child ticket
 474120,Meal voucher
 474261,Free meal
@@ -379,7 +379,7 @@ user_id,recommended_offer
 476124,Meal voucher
 476173,Free meal
 476270,Free meal
-476393,Discount at special events
+476393,Free meal
 476436,Discount at special events
 476535,Meal voucher
 476665,Discount at special events
@@ -440,7 +440,7 @@ user_id,recommended_offer
 483603,Meal voucher
 483928,Meal voucher
 483982,Meal voucher
-484249,Free child ticket
+484249,Discount at special events
 484418,Discount at special events
 484987,Meal voucher
 485149,Meal voucher
@@ -480,7 +480,7 @@ user_id,recommended_offer
 488099,Free meal
 488246,Free meal
 488314,Discount at special events
-488410,Free child ticket
+488410,Discount at special events
 488430,Meal voucher
 488462,Discount at special events
 488480,Free meal
@@ -497,7 +497,7 @@ user_id,recommended_offer
 489635,Meal voucher
 489661,Free meal
 489730,Meal voucher
-489785,Free child ticket
+489785,Discount at special events
 489802,Discount at special events
 489844,Discount at special events
 489852,Free meal
@@ -537,7 +537,7 @@ user_id,recommended_offer
 492497,Free child ticket
 492614,Meal voucher
 492999,Meal voucher
-493177,Free child ticket
+493177,Discount at special events
 493409,Free meal
 493476,Meal voucher
 493718,Free child ticket
@@ -592,11 +592,11 @@ user_id,recommended_offer
 498607,Free child ticket
 498665,Meal voucher
 498857,Discount at special events
-498931,Free child ticket
+498931,Discount at special events
 499028,Discount at special events
 499038,Meal voucher
 499252,Discount at special events
-499313,Free child ticket
+499313,Discount at special events
 499366,Meal voucher
 499375,Meal voucher
 499379,Free meal
@@ -607,7 +607,7 @@ user_id,recommended_offer
 499659,Free meal
 499669,Discount at special events
 499751,Discount at special events
-499780,Free child ticket
+499780,Discount at special events
 499810,Meal voucher
 499847,Discount at special events
 499969,Free meal
@@ -715,7 +715,7 @@ user_id,recommended_offer
 506777,Free child ticket
 506807,Discount at special events
 506828,Meal voucher
-506837,Free child ticket
+506837,Discount at special events
 507036,Free meal
 507133,Free meal
 507207,Free meal
@@ -724,7 +724,7 @@ user_id,recommended_offer
 507395,Discount at special events
 507431,Meal voucher
 507435,Discount at special events
-507505,Free child ticket
+507505,Discount at special events
 507531,Free meal
 507557,Free meal
 507573,Meal voucher
@@ -734,7 +734,7 @@ user_id,recommended_offer
 507753,Free meal
 507759,Discount at special events
 507773,Free meal
-507805,Discount at special events
+507805,Free meal
 508050,Discount at special events
 508096,Discount at special events
 508111,Meal voucher
@@ -770,12 +770,12 @@ user_id,recommended_offer
 508973,Meal voucher
 509024,Meal voucher
 509036,Meal voucher
-509061,Discount at special events
+509061,Free meal
 509069,Free meal
 509098,Meal voucher
 509115,Free meal
 509119,Free meal
-509157,Free child ticket
+509157,Discount at special events
 509160,Meal voucher
 509162,Free meal
 509202,Free meal
@@ -794,7 +794,7 @@ user_id,recommended_offer
 509359,Meal voucher
 509411,Discount at special events
 509413,Meal voucher
-509414,Discount at special events
+509414,Free meal
 509419,Meal voucher
 509421,Meal voucher
 509435,Meal voucher
@@ -833,25 +833,25 @@ user_id,recommended_offer
 510003,Free child ticket
 510022,Discount at special events
 510044,Meal voucher
-510048,Free child ticket
+510048,Discount at special events
 510061,Discount at special events
 510067,Discount at special events
 510070,Free meal
 510078,Discount at special events
 510081,Free meal
 510090,Discount at special events
-510093,Discount at special events
-510094,Free child ticket
+510093,Free meal
+510094,Discount at special events
 510104,Meal voucher
-510108,Free child ticket
-510112,Free child ticket
+510108,Discount at special events
+510112,Discount at special events
 510114,Meal voucher
-510134,Free child ticket
+510134,Discount at special events
 510155,Free meal
 510156,Meal voucher
 510163,Discount at special events
-510164,Discount at special events
-510170,Free child ticket
+510164,Free meal
+510170,Discount at special events
 510172,Meal voucher
 510179,Discount at special events
 510185,Discount at special events
@@ -890,7 +890,7 @@ user_id,recommended_offer
 510571,Free meal
 510580,Meal voucher
 510582,Free meal
-510585,Discount at special events
+510585,Free meal
 510586,Meal voucher
 510610,Discount at special events
 510618,Discount at special events
@@ -911,7 +911,7 @@ user_id,recommended_offer
 510890,Meal voucher
 510899,Discount at special events
 510944,Meal voucher
-510946,Discount at special events
+510946,Free meal
 510960,Meal voucher
 510961,Discount at special events
 510972,Discount at special events
@@ -922,14 +922,14 @@ user_id,recommended_offer
 511122,Discount at special events
 511125,Discount at special events
 511126,Free meal
-511140,Discount at special events
-511142,Free child ticket
+511140,Free meal
+511142,Discount at special events
 511145,Free meal
 511148,Discount at special events
 511160,Meal voucher
 511178,Meal voucher
 511195,Free meal
-511208,Free child ticket
+511208,Discount at special events
 511219,Free meal
 511223,Discount at special events
 511260,Free meal
@@ -951,7 +951,7 @@ user_id,recommended_offer
 511455,Meal voucher
 511469,Free meal
 511489,Free meal
-511502,Free child ticket
+511502,Discount at special events
 511504,Meal voucher
 511535,Discount at special events
 511542,Meal voucher
@@ -972,7 +972,7 @@ user_id,recommended_offer
 511677,Meal voucher
 511680,Meal voucher
 511697,Meal voucher
-511712,Discount at special events
+511712,Free meal
 511726,Meal voucher
 511739,Meal voucher
 511762,Free meal
@@ -1001,7 +1001,7 @@ user_id,recommended_offer
 511977,Discount at special events
 511996,Free meal
 511998,Meal voucher
-512009,Discount at special events
+512009,Free meal
 512010,Free meal
 512016,Free meal
 512024,Free meal
@@ -1017,7 +1017,7 @@ user_id,recommended_offer
 512163,Free meal
 512173,Meal voucher
 512190,Free meal
-512193,Free child ticket
+512193,Discount at special events
 512197,Meal voucher
 512201,Discount at special events
 512204,Meal voucher
@@ -1040,7 +1040,7 @@ user_id,recommended_offer
 512402,Meal voucher
 512416,Free meal
 512418,Free child ticket
-512419,Free child ticket
+512419,Discount at special events
 512440,Discount at special events
 512443,Discount at special events
 512447,Free meal
@@ -1121,9 +1121,9 @@ user_id,recommended_offer
 513381,Discount at special events
 513387,Discount at special events
 513397,Meal voucher
-513408,Discount at special events
+513408,Free meal
 513422,Discount at special events
-513438,Free child ticket
+513438,Discount at special events
 513495,Free meal
 513497,Free meal
 513543,Free meal
@@ -1142,11 +1142,11 @@ user_id,recommended_offer
 513661,Free meal
 513683,Meal voucher
 513721,Meal voucher
-513761,Discount at special events
+513761,Free meal
 513776,Free meal
 513787,Meal voucher
-513791,Discount at special events
-513796,Discount at special events
+513791,Free meal
+513796,Free meal
 513807,Free child ticket
 513826,Free child ticket
 513844,Free meal
@@ -1228,7 +1228,7 @@ user_id,recommended_offer
 514981,Discount at special events
 515004,Free meal
 515020,Meal voucher
-515030,Free child ticket
+515030,Discount at special events
 515051,Discount at special events
 515058,Meal voucher
 515060,Meal voucher
@@ -1275,7 +1275,7 @@ user_id,recommended_offer
 515684,Meal voucher
 515688,Discount at special events
 515694,Meal voucher
-515713,Discount at special events
+515713,Free meal
 515727,Discount at special events
 515739,Discount at special events
 515751,Free child ticket
@@ -1320,7 +1320,7 @@ user_id,recommended_offer
 516273,Meal voucher
 516282,Discount at special events
 516283,Free meal
-516287,Discount at special events
+516287,Free meal
 516290,Free meal
 516296,Meal voucher
 516301,Meal voucher
@@ -1332,7 +1332,7 @@ user_id,recommended_offer
 516456,Discount at special events
 516507,Meal voucher
 516516,Meal voucher
-516528,Discount at special events
+516528,Free meal
 516543,Free child ticket
 516556,Meal voucher
 516561,Discount at special events
@@ -1340,15 +1340,15 @@ user_id,recommended_offer
 516578,Meal voucher
 516579,Free meal
 516590,Free meal
-516593,Discount at special events
+516593,Free meal
 516594,Meal voucher
 516614,Meal voucher
 516616,Free meal
 516639,Discount at special events
 516647,Discount at special events
-516679,Discount at special events
+516679,Free meal
 516682,Free meal
-516694,Free child ticket
+516694,Discount at special events
 516697,Free meal
 516704,Discount at special events
 516732,Discount at special events
@@ -1398,7 +1398,7 @@ user_id,recommended_offer
 517549,Meal voucher
 517571,Meal voucher
 517579,Free child ticket
-517581,Discount at special events
+517581,Free meal
 517596,Discount at special events
 517633,Discount at special events
 517653,Discount at special events
@@ -1422,17 +1422,17 @@ user_id,recommended_offer
 517871,Meal voucher
 517894,Discount at special events
 517898,Meal voucher
-517925,Discount at special events
+517925,Free meal
 517931,Meal voucher
 517961,10% off next trip
 517967,Free meal
 517968,Free meal
 518012,Meal voucher
-518015,Free child ticket
+518015,Discount at special events
 518041,Free meal
 518044,Free meal
 518074,Free child ticket
-518084,Discount at special events
+518084,Free meal
 518092,Meal voucher
 518121,Meal voucher
 518127,Meal voucher
@@ -1444,19 +1444,19 @@ user_id,recommended_offer
 518281,Discount at special events
 518324,Meal voucher
 518334,Free meal
-518338,Free child ticket
+518338,Discount at special events
 518347,Discount at special events
 518348,Free meal
 518372,Meal voucher
 518393,Meal voucher
 518406,Discount at special events
-518416,Free child ticket
+518416,Discount at special events
 518422,Free meal
 518443,Free meal
 518450,Free meal
 518480,Discount at special events
-518495,Free child ticket
-518516,Free child ticket
+518495,Discount at special events
+518516,Discount at special events
 518526,Meal voucher
 518527,Discount at special events
 518533,Meal voucher
@@ -1486,7 +1486,7 @@ user_id,recommended_offer
 518867,Discount at special events
 518870,Meal voucher
 518894,Meal voucher
-518896,Discount at special events
+518896,Free meal
 518907,Meal voucher
 518922,Free meal
 518925,Free meal
@@ -1498,7 +1498,7 @@ user_id,recommended_offer
 519014,Free meal
 519059,Meal voucher
 519079,Meal voucher
-519089,Discount at special events
+519089,Free meal
 519091,Free meal
 519096,Meal voucher
 519114,Meal voucher
@@ -1532,13 +1532,13 @@ user_id,recommended_offer
 519529,Meal voucher
 519532,Free child ticket
 519541,Meal voucher
-519554,Discount at special events
+519554,Free meal
 519595,Meal voucher
 519596,Discount at special events
 519604,Meal voucher
 519626,Meal voucher
 519631,Meal voucher
-519664,Free child ticket
+519664,Discount at special events
 519694,Meal voucher
 519695,Meal voucher
 519706,Free meal
@@ -1585,7 +1585,7 @@ user_id,recommended_offer
 520256,Discount at special events
 520265,Discount at special events
 520277,Meal voucher
-520291,Discount at special events
+520291,Free meal
 520298,Free meal
 520307,Meal voucher
 520311,Free meal
@@ -1613,7 +1613,7 @@ user_id,recommended_offer
 520708,Meal voucher
 520719,Meal voucher
 520733,Discount at special events
-520745,Free child ticket
+520745,Discount at special events
 520762,Free meal
 520770,Meal voucher
 520771,Free meal
@@ -1637,13 +1637,13 @@ user_id,recommended_offer
 521004,Discount at special events
 521009,Free meal
 521031,Free child ticket
-521033,Free child ticket
+521033,Discount at special events
 521044,Meal voucher
 521060,Meal voucher
 521065,Discount at special events
 521066,Meal voucher
 521070,10% off next trip
-521109,Free child ticket
+521109,Discount at special events
 521127,Free meal
 521152,Free child ticket
 521170,Free meal
@@ -1659,7 +1659,7 @@ user_id,recommended_offer
 521282,Meal voucher
 521286,Meal voucher
 521293,Discount at special events
-521295,Free child ticket
+521295,Discount at special events
 521298,Free child ticket
 521309,Meal voucher
 521316,Free meal
@@ -1669,7 +1669,7 @@ user_id,recommended_offer
 521379,Discount at special events
 521392,Free meal
 521404,Meal voucher
-521408,Discount at special events
+521408,Free meal
 521416,Free child ticket
 521434,Discount at special events
 521462,Free child ticket
@@ -1716,7 +1716,7 @@ user_id,recommended_offer
 522112,Discount at special events
 522115,Meal voucher
 522118,Discount at special events
-522152,Discount at special events
+522152,Free meal
 522171,Free meal
 522179,Free child ticket
 522201,Free meal
@@ -1741,30 +1741,30 @@ user_id,recommended_offer
 522441,Meal voucher
 522445,Free meal
 522457,Meal voucher
-522465,Discount at special events
+522465,Free meal
 522476,Discount at special events
 522484,Discount at special events
 522513,Free meal
 522523,Meal voucher
 522532,Free meal
-522533,Discount at special events
+522533,Free meal
 522585,Meal voucher
 522607,Discount at special events
-522624,Discount at special events
+522624,Free meal
 522631,Meal voucher
 522633,Meal voucher
 522634,Meal voucher
 522639,Meal voucher
 522654,Free meal
 522687,Free meal
-522738,Discount at special events
+522738,Free meal
 522745,Free meal
 522748,Discount at special events
 522761,Meal voucher
 522788,Free meal
 522800,Meal voucher
 522809,Discount at special events
-522898,Discount at special events
+522898,Free meal
 522927,Meal voucher
 522937,Meal voucher
 522939,Meal voucher
@@ -1793,7 +1793,7 @@ user_id,recommended_offer
 523392,Free child ticket
 523395,Meal voucher
 523442,Discount at special events
-523454,Free child ticket
+523454,Discount at special events
 523465,Discount at special events
 523474,Meal voucher
 523484,Meal voucher
@@ -1803,7 +1803,7 @@ user_id,recommended_offer
 523517,Free meal
 523526,Free child ticket
 523546,Free meal
-523559,Free child ticket
+523559,Discount at special events
 523612,Free meal
 523619,Free meal
 523657,Free child ticket
@@ -1841,13 +1841,13 @@ user_id,recommended_offer
 524036,Free meal
 524038,Meal voucher
 524043,Discount at special events
-524046,Discount at special events
+524046,Free meal
 524052,Meal voucher
 524057,Free meal
 524076,Discount at special events
 524080,Meal voucher
 524116,Meal voucher
-524120,Discount at special events
+524120,Free meal
 524151,Free meal
 524167,Meal voucher
 524169,Discount at special events
@@ -1887,7 +1887,7 @@ user_id,recommended_offer
 524766,Free child ticket
 524805,Free meal
 524807,Meal voucher
-524821,Discount at special events
+524821,Free meal
 524834,Discount at special events
 524842,Free meal
 524849,Discount at special events
@@ -1918,7 +1918,7 @@ user_id,recommended_offer
 525265,Meal voucher
 525281,Meal voucher
 525308,Free meal
-525323,Free child ticket
+525323,Discount at special events
 525332,Meal voucher
 525356,Discount at special events
 525389,Free child ticket
@@ -1945,7 +1945,7 @@ user_id,recommended_offer
 525769,Meal voucher
 525789,Discount at special events
 525804,Free meal
-525806,Free child ticket
+525806,Discount at special events
 525824,Free child ticket
 525842,Discount at special events
 525844,Meal voucher
@@ -1964,9 +1964,9 @@ user_id,recommended_offer
 526174,Free meal
 526179,Meal voucher
 526184,Free meal
-526203,Free child ticket
+526203,Discount at special events
 526206,Meal voucher
-526221,Free child ticket
+526221,Discount at special events
 526235,Free child ticket
 526239,Free meal
 526256,Meal voucher
@@ -1974,11 +1974,11 @@ user_id,recommended_offer
 526297,Meal voucher
 526303,Free meal
 526308,Discount at special events
-526332,Discount at special events
-526354,Discount at special events
+526332,Free meal
+526354,Free meal
 526365,Free child ticket
 526367,Discount at special events
-526372,Free child ticket
+526372,Discount at special events
 526378,Meal voucher
 526409,Meal voucher
 526431,Free meal
@@ -1992,7 +1992,7 @@ user_id,recommended_offer
 526628,Discount at special events
 526668,Meal voucher
 526676,Meal voucher
-526683,Free child ticket
+526683,Discount at special events
 526690,Meal voucher
 526711,Meal voucher
 526727,Discount at special events
@@ -2021,7 +2021,7 @@ user_id,recommended_offer
 527075,Meal voucher
 527081,Meal voucher
 527082,Meal voucher
-527109,Discount at special events
+527109,Free meal
 527130,Free meal
 527132,Meal voucher
 527133,Meal voucher
@@ -2047,7 +2047,7 @@ user_id,recommended_offer
 527393,Meal voucher
 527396,Meal voucher
 527401,Meal voucher
-527406,Discount at special events
+527406,Free meal
 527451,Meal voucher
 527452,Free child ticket
 527455,Discount at special events
@@ -2070,7 +2070,7 @@ user_id,recommended_offer
 527735,Meal voucher
 527750,Free meal
 527782,Meal voucher
-527783,Free child ticket
+527783,Discount at special events
 527824,Discount at special events
 527850,Meal voucher
 527857,Free meal
@@ -2125,7 +2125,7 @@ user_id,recommended_offer
 528743,Meal voucher
 528744,Meal voucher
 528777,Discount at special events
-528816,Free child ticket
+528816,Discount at special events
 528826,Meal voucher
 528827,Discount at special events
 528828,Free meal
@@ -2151,8 +2151,8 @@ user_id,recommended_offer
 529214,Discount at special events
 529216,Free meal
 529224,Discount at special events
-529229,Discount at special events
-529231,Discount at special events
+529229,Free meal
+529231,Free meal
 529237,Free meal
 529249,Free child ticket
 529309,Meal voucher
@@ -2188,7 +2188,7 @@ user_id,recommended_offer
 529857,Free meal
 529879,Meal voucher
 529940,Free meal
-529972,Discount at special events
+529972,Free meal
 530004,Meal voucher
 530039,Meal voucher
 530090,Meal voucher
@@ -2199,7 +2199,7 @@ user_id,recommended_offer
 530213,Discount at special events
 530223,Discount at special events
 530240,Free child ticket
-530277,Discount at special events
+530277,Free meal
 530278,Meal voucher
 530282,Meal voucher
 530298,Meal voucher
@@ -2238,7 +2238,7 @@ user_id,recommended_offer
 530739,Meal voucher
 530743,Free child ticket
 530754,Meal voucher
-530773,Discount at special events
+530773,Free meal
 530775,Discount at special events
 530797,Meal voucher
 530801,Meal voucher
@@ -2248,7 +2248,7 @@ user_id,recommended_offer
 530869,Free meal
 530881,Meal voucher
 530906,Discount at special events
-530949,Discount at special events
+530949,Free meal
 530950,Free meal
 530978,Discount at special events
 531006,Meal voucher
@@ -2269,7 +2269,7 @@ user_id,recommended_offer
 531217,Discount at special events
 531253,Discount at special events
 531322,Meal voucher
-531344,Discount at special events
+531344,Free meal
 531361,Meal voucher
 531373,Meal voucher
 531386,Discount at special events
@@ -2297,14 +2297,14 @@ user_id,recommended_offer
 531771,Discount at special events
 531777,Meal voucher
 531789,Discount at special events
-531795,Discount at special events
+531795,Free meal
 531807,Meal voucher
 531824,Meal voucher
 531844,Meal voucher
 531847,Discount at special events
 531857,Meal voucher
 531868,Discount at special events
-531884,Free child ticket
+531884,Discount at special events
 531921,Free meal
 531931,Free child ticket
 531959,Free meal
@@ -2319,7 +2319,7 @@ user_id,recommended_offer
 532106,Free meal
 532119,Discount at special events
 532159,Free meal
-532215,Discount at special events
+532215,Free meal
 532225,Discount at special events
 532233,Free meal
 532258,Free child ticket
@@ -2335,13 +2335,13 @@ user_id,recommended_offer
 532388,Free meal
 532390,Discount at special events
 532410,Free meal
-532426,Discount at special events
+532426,Free meal
 532432,Free meal
 532433,Free meal
-532500,Free child ticket
+532500,Discount at special events
 532519,Free meal
 532535,Free meal
-532544,Discount at special events
+532544,Free meal
 532568,Free meal
 532607,Meal voucher
 532622,Discount at special events
@@ -2366,7 +2366,7 @@ user_id,recommended_offer
 532863,Meal voucher
 532866,Discount at special events
 532901,Meal voucher
-532912,Discount at special events
+532912,Free meal
 532941,Free meal
 532989,Discount at special events
 533048,Free meal
@@ -2386,7 +2386,7 @@ user_id,recommended_offer
 533302,Meal voucher
 533327,Free meal
 533357,Meal voucher
-533378,Discount at special events
+533378,Free meal
 533388,Free child ticket
 533393,Free meal
 533396,Discount at special events
@@ -2428,7 +2428,7 @@ user_id,recommended_offer
 534045,Free child ticket
 534066,Discount at special events
 534088,Free meal
-534105,Discount at special events
+534105,Free meal
 534179,Discount at special events
 534190,Free meal
 534246,Free meal
@@ -2441,7 +2441,7 @@ user_id,recommended_offer
 534380,10% off next trip
 534391,Discount at special events
 534445,Meal voucher
-534474,Discount at special events
+534474,Free meal
 534499,Free meal
 534564,Discount at special events
 534594,Free meal
@@ -2482,8 +2482,8 @@ user_id,recommended_offer
 535189,Meal voucher
 535229,Meal voucher
 535266,Free meal
-535311,Free child ticket
-535341,Free child ticket
+535311,Discount at special events
+535341,Discount at special events
 535365,Meal voucher
 535398,Meal voucher
 535441,Meal voucher
@@ -2526,7 +2526,7 @@ user_id,recommended_offer
 536066,Free child ticket
 536086,Discount at special events
 536099,Free meal
-536212,Free child ticket
+536212,Discount at special events
 536228,Free meal
 536229,Free meal
 536241,Free child ticket
@@ -2535,7 +2535,7 @@ user_id,recommended_offer
 536313,Free meal
 536343,Free child ticket
 536387,Meal voucher
-536431,Free child ticket
+536431,Discount at special events
 536467,Discount at special events
 536469,Meal voucher
 536474,Meal voucher
@@ -2552,7 +2552,7 @@ user_id,recommended_offer
 536652,Free meal
 536656,Meal voucher
 536658,Discount at special events
-536659,Free child ticket
+536659,Discount at special events
 536672,Meal voucher
 536675,Meal voucher
 536691,Meal voucher
@@ -2655,7 +2655,7 @@ user_id,recommended_offer
 538780,Discount at special events
 538788,Meal voucher
 538814,Free meal
-538883,Free child ticket
+538883,Discount at special events
 538915,Discount at special events
 538944,Discount at special events
 538976,Meal voucher
@@ -2699,7 +2699,7 @@ user_id,recommended_offer
 539669,Free meal
 539671,Discount at special events
 539710,Meal voucher
-539729,Discount at special events
+539729,Free meal
 539794,Meal voucher
 539855,Meal voucher
 539864,Meal voucher
@@ -2741,10 +2741,10 @@ user_id,recommended_offer
 540572,Discount at special events
 540580,Discount at special events
 540597,Discount at special events
-540605,Discount at special events
+540605,Free meal
 540614,Free child ticket
 540622,Meal voucher
-540642,Discount at special events
+540642,Free meal
 540653,Free meal
 540654,Meal voucher
 540656,Discount at special events
@@ -2754,7 +2754,7 @@ user_id,recommended_offer
 540708,Discount at special events
 540718,Free meal
 540733,Free meal
-540777,Discount at special events
+540777,Free meal
 540819,Meal voucher
 540837,Discount at special events
 540863,Free meal
@@ -2784,7 +2784,7 @@ user_id,recommended_offer
 541262,Discount at special events
 541282,Free meal
 541289,Discount at special events
-541326,Free child ticket
+541326,Discount at special events
 541352,Discount at special events
 541357,Meal voucher
 541382,Discount at special events
@@ -2823,7 +2823,7 @@ user_id,recommended_offer
 542056,Free meal
 542059,Discount at special events
 542065,10% off next trip
-542080,Free child ticket
+542080,Discount at special events
 542095,Meal voucher
 542142,Meal voucher
 542153,Meal voucher
@@ -2862,8 +2862,8 @@ user_id,recommended_offer
 542812,Free meal
 542825,Meal voucher
 542843,Free child ticket
-542850,Free child ticket
-542874,Free child ticket
+542850,Discount at special events
+542874,Discount at special events
 542914,Free meal
 542918,Discount at special events
 542937,Meal voucher
@@ -2879,7 +2879,7 @@ user_id,recommended_offer
 543126,Free meal
 543165,Discount at special events
 543222,Discount at special events
-543237,Discount at special events
+543237,Free meal
 543240,Free meal
 543271,Free child ticket
 543273,Discount at special events
@@ -2909,7 +2909,7 @@ user_id,recommended_offer
 543810,Meal voucher
 543826,Free meal
 543885,Free meal
-543900,Discount at special events
+543900,Free meal
 543927,Meal voucher
 543928,Meal voucher
 543937,Meal voucher
@@ -2961,7 +2961,7 @@ user_id,recommended_offer
 545012,Free meal
 545070,Free meal
 545089,10% off next trip
-545109,Free child ticket
+545109,Discount at special events
 545115,Discount at special events
 545132,Meal voucher
 545208,Free child ticket
@@ -2979,7 +2979,7 @@ user_id,recommended_offer
 545345,Meal voucher
 545360,Free meal
 545375,Free meal
-545399,Free child ticket
+545399,Discount at special events
 545404,Meal voucher
 545446,Free meal
 545465,Discount at special events
@@ -2989,12 +2989,12 @@ user_id,recommended_offer
 545577,Meal voucher
 545629,Meal voucher
 545633,Meal voucher
-545634,Free child ticket
+545634,Discount at special events
 545652,Meal voucher
-545684,Discount at special events
+545684,Free meal
 545736,Free meal
 545748,Discount at special events
-545755,Free child ticket
+545755,Discount at special events
 545758,Meal voucher
 545763,Free meal
 545770,Discount at special events
@@ -3012,7 +3012,7 @@ user_id,recommended_offer
 546050,Free child ticket
 546061,Meal voucher
 546064,Discount at special events
-546065,Free child ticket
+546065,Discount at special events
 546072,Meal voucher
 546127,Discount at special events
 546130,Discount at special events
@@ -3041,10 +3041,10 @@ user_id,recommended_offer
 546679,Discount at special events
 546688,Meal voucher
 546702,Free child ticket
-546728,Discount at special events
+546728,Free meal
 546740,Meal voucher
 546756,Free child ticket
-546774,Discount at special events
+546774,Free meal
 546842,Free meal
 546844,Discount at special events
 546847,Discount at special events
@@ -3059,12 +3059,12 @@ user_id,recommended_offer
 546964,Discount at special events
 546972,Free meal
 547006,10% off next trip
-547007,Free child ticket
+547007,Discount at special events
 547037,Meal voucher
 547070,Meal voucher
 547100,10% off next trip
 547130,Free meal
-547150,Discount at special events
+547150,Free meal
 547164,Free meal
 547175,Free meal
 547180,Free meal
@@ -3092,7 +3092,7 @@ user_id,recommended_offer
 547663,Meal voucher
 547664,Meal voucher
 547693,10% off next trip
-547761,Discount at special events
+547761,Free meal
 547776,Meal voucher
 547779,Discount at special events
 547792,Free meal
@@ -3137,7 +3137,7 @@ user_id,recommended_offer
 548504,Meal voucher
 548560,Discount at special events
 548568,Discount at special events
-548587,Discount at special events
+548587,Free meal
 548635,Discount at special events
 548651,Discount at special events
 548653,Discount at special events
@@ -3153,7 +3153,7 @@ user_id,recommended_offer
 548988,Discount at special events
 548990,Free meal
 549058,10% off next trip
-549115,Free child ticket
+549115,Discount at special events
 549116,Discount at special events
 549121,Free meal
 549141,Free meal
@@ -3163,7 +3163,7 @@ user_id,recommended_offer
 549202,Meal voucher
 549235,Free meal
 549251,Meal voucher
-549281,Discount at special events
+549281,Free meal
 549290,Free meal
 549292,Meal voucher
 549303,Free child ticket
@@ -3182,7 +3182,7 @@ user_id,recommended_offer
 549572,Meal voucher
 549579,Meal voucher
 549580,Discount at special events
-549584,Discount at special events
+549584,Free meal
 549611,Meal voucher
 549623,Meal voucher
 549631,Discount at special events
@@ -3205,7 +3205,7 @@ user_id,recommended_offer
 550110,Discount at special events
 550134,Discount at special events
 550193,Free meal
-550200,Free child ticket
+550200,Discount at special events
 550202,Meal voucher
 550221,Discount at special events
 550222,Meal voucher
@@ -3246,7 +3246,7 @@ user_id,recommended_offer
 551088,Free meal
 551116,Meal voucher
 551166,Free meal
-551217,Free child ticket
+551217,Discount at special events
 551237,Meal voucher
 551241,Free meal
 551245,10% off next trip
@@ -3278,7 +3278,7 @@ user_id,recommended_offer
 551729,Meal voucher
 551804,Meal voucher
 551834,Free meal
-551847,Free child ticket
+551847,Discount at special events
 551890,Meal voucher
 551914,Meal voucher
 551935,Free meal
@@ -3330,14 +3330,14 @@ user_id,recommended_offer
 552944,Meal voucher
 552945,Meal voucher
 553017,Meal voucher
-553054,Discount at special events
+553054,Free meal
 553139,Free child ticket
 553151,Free meal
 553208,Free meal
 553219,Discount at special events
 553220,Meal voucher
 553231,Free child ticket
-553245,Free child ticket
+553245,Discount at special events
 553339,Meal voucher
 553361,Free meal
 553456,Free child ticket
@@ -3350,7 +3350,7 @@ user_id,recommended_offer
 553704,Free meal
 553751,Meal voucher
 553754,Discount at special events
-553773,Discount at special events
+553773,Free meal
 553783,Meal voucher
 553791,Meal voucher
 553805,Discount at special events
@@ -3393,7 +3393,7 @@ user_id,recommended_offer
 554956,Meal voucher
 554961,Free meal
 555058,Meal voucher
-555083,Free child ticket
+555083,Discount at special events
 555108,Meal voucher
 555135,Free meal
 555147,Meal voucher
@@ -3415,7 +3415,7 @@ user_id,recommended_offer
 555478,Meal voucher
 555484,Meal voucher
 555499,Discount at special events
-555521,Free child ticket
+555521,Discount at special events
 555563,Discount at special events
 555587,Discount at special events
 555600,Discount at special events
@@ -3437,12 +3437,12 @@ user_id,recommended_offer
 556019,Discount at special events
 556052,Meal voucher
 556067,Discount at special events
-556111,Discount at special events
+556111,Free meal
 556119,Free child ticket
 556127,Meal voucher
 556138,Meal voucher
 556214,Free child ticket
-556215,Discount at special events
+556215,Free meal
 556268,Meal voucher
 556274,Free meal
 556314,Discount at special events
@@ -3475,7 +3475,7 @@ user_id,recommended_offer
 557134,Free meal
 557236,Discount at special events
 557262,Free meal
-557282,Free child ticket
+557282,Discount at special events
 557298,Free child ticket
 557314,Discount at special events
 557343,Meal voucher
@@ -3488,7 +3488,7 @@ user_id,recommended_offer
 557525,Meal voucher
 557562,Discount at special events
 557569,Free meal
-557643,Free child ticket
+557643,Discount at special events
 557672,Meal voucher
 557692,Free meal
 557762,Free meal
@@ -3518,11 +3518,11 @@ user_id,recommended_offer
 558251,Free child ticket
 558270,Meal voucher
 558277,Meal voucher
-558294,Free child ticket
+558294,Discount at special events
 558300,Meal voucher
 558362,Meal voucher
 558388,Free child ticket
-558394,Free child ticket
+558394,Discount at special events
 558395,Free meal
 558437,Discount at special events
 558466,Meal voucher
@@ -3547,7 +3547,7 @@ user_id,recommended_offer
 559146,Free meal
 559148,Free child ticket
 559176,Free meal
-559194,Discount at special events
+559194,Free meal
 559211,Discount at special events
 559228,Meal voucher
 559266,Meal voucher
@@ -3556,9 +3556,9 @@ user_id,recommended_offer
 559345,Free meal
 559368,Meal voucher
 559407,Discount at special events
-559432,Free child ticket
+559432,Discount at special events
 559441,Free meal
-559464,Discount at special events
+559464,Free meal
 559468,Free meal
 559469,Meal voucher
 559473,Meal voucher
@@ -3572,7 +3572,7 @@ user_id,recommended_offer
 559772,Meal voucher
 559775,Discount at special events
 559782,Meal voucher
-559787,Discount at special events
+559787,Free meal
 559794,Discount at special events
 559834,Discount at special events
 559846,Discount at special events
@@ -3583,19 +3583,19 @@ user_id,recommended_offer
 559981,Meal voucher
 559995,Free child ticket
 560015,Meal voucher
-560035,Free child ticket
+560035,Discount at special events
 560065,Free meal
 560078,Discount at special events
 560085,Free child ticket
 560090,Meal voucher
-560125,Discount at special events
+560125,Free meal
 560175,Meal voucher
 560195,Free child ticket
 560213,Discount at special events
 560245,Free child ticket
 560257,Free meal
 560273,Meal voucher
-560291,Discount at special events
+560291,Free meal
 560341,Free meal
 560362,Meal voucher
 560367,Free child ticket
@@ -3603,7 +3603,7 @@ user_id,recommended_offer
 560468,Discount at special events
 560478,Free meal
 560511,Discount at special events
-560519,Discount at special events
+560519,Free meal
 560529,Free meal
 560627,10% off next trip
 560672,Meal voucher
@@ -3611,7 +3611,7 @@ user_id,recommended_offer
 560733,Discount at special events
 560739,Discount at special events
 560747,Discount at special events
-560796,Discount at special events
+560796,Free meal
 560803,Discount at special events
 560854,Discount at special events
 560870,Meal voucher
@@ -3621,7 +3621,7 @@ user_id,recommended_offer
 560929,Free meal
 560949,Free meal
 560978,Free meal
-560991,Free child ticket
+560991,Discount at special events
 561013,Free meal
 561031,Meal voucher
 561033,Discount at special events
@@ -3630,7 +3630,7 @@ user_id,recommended_offer
 561201,Free meal
 561243,Meal voucher
 561326,Free meal
-561331,Free child ticket
+561331,Discount at special events
 561339,Meal voucher
 561353,Meal voucher
 561367,Discount at special events
@@ -3678,7 +3678,7 @@ user_id,recommended_offer
 562587,Free meal
 562612,Free meal
 562641,Meal voucher
-562648,Free child ticket
+562648,Discount at special events
 562708,Discount at special events
 562814,Free meal
 562832,Free meal
@@ -3694,7 +3694,7 @@ user_id,recommended_offer
 563148,Meal voucher
 563162,Meal voucher
 563165,Meal voucher
-563201,Discount at special events
+563201,Free meal
 563221,Meal voucher
 563253,Meal voucher
 563254,Meal voucher
@@ -3711,13 +3711,13 @@ user_id,recommended_offer
 563489,Free meal
 563507,Discount at special events
 563544,Discount at special events
-563588,Discount at special events
+563588,Free meal
 563592,Free meal
 563598,Free meal
 563691,Free meal
 563711,Discount at special events
 563731,Discount at special events
-563735,Discount at special events
+563735,Free meal
 563736,Free child ticket
 563740,Free meal
 563773,Meal voucher
@@ -3739,7 +3739,7 @@ user_id,recommended_offer
 564258,Free meal
 564306,Free meal
 564312,Discount at special events
-564364,Discount at special events
+564364,Free meal
 564377,Free meal
 564430,Meal voucher
 564495,Meal voucher
@@ -3764,7 +3764,7 @@ user_id,recommended_offer
 565109,Meal voucher
 565114,Free meal
 565131,Discount at special events
-565212,Discount at special events
+565212,Free meal
 565251,Meal voucher
 565265,Meal voucher
 565275,Free meal
@@ -3784,11 +3784,11 @@ user_id,recommended_offer
 565514,Free child ticket
 565565,Free meal
 565573,Meal voucher
-565582,Discount at special events
+565582,Free meal
 565718,Meal voucher
 565764,Meal voucher
 565768,Meal voucher
-565791,Free child ticket
+565791,Discount at special events
 565826,Free meal
 565841,Discount at special events
 565902,Meal voucher
@@ -3802,7 +3802,7 @@ user_id,recommended_offer
 566059,Discount at special events
 566061,Meal voucher
 566096,Free meal
-566152,Discount at special events
+566152,Free meal
 566173,Free meal
 566174,Meal voucher
 566196,Free meal
@@ -3842,7 +3842,7 @@ user_id,recommended_offer
 567195,Free meal
 567211,Meal voucher
 567219,Meal voucher
-567243,Free child ticket
+567243,Discount at special events
 567256,Free child ticket
 567342,Free meal
 567431,Meal voucher
@@ -3867,7 +3867,7 @@ user_id,recommended_offer
 568004,Discount at special events
 568013,Discount at special events
 568060,Free meal
-568064,Discount at special events
+568064,Free meal
 568078,Discount at special events
 568086,Meal voucher
 568093,Meal voucher
@@ -3888,7 +3888,7 @@ user_id,recommended_offer
 568602,Meal voucher
 568605,Free meal
 568641,Discount at special events
-568696,Free child ticket
+568696,Discount at special events
 568713,Meal voucher
 568716,Meal voucher
 568773,Discount at special events
@@ -3896,19 +3896,19 @@ user_id,recommended_offer
 568931,Discount at special events
 568984,Free meal
 569031,10% off next trip
-569082,Discount at special events
+569082,Free meal
 569150,Meal voucher
 569170,Meal voucher
 569180,Free meal
 569203,Meal voucher
 569236,Discount at special events
 569239,Free child ticket
-569243,Discount at special events
+569243,Free meal
 569300,Meal voucher
 569335,Free meal
 569342,Discount at special events
 569364,Free meal
-569458,Free child ticket
+569458,Discount at special events
 569466,Discount at special events
 569472,Discount at special events
 569530,Discount at special events
@@ -3916,17 +3916,17 @@ user_id,recommended_offer
 569572,Free meal
 569733,Meal voucher
 569754,Discount at special events
-569779,Free child ticket
+569779,Discount at special events
 569788,Free meal
 569792,Meal voucher
 569817,Free meal
 569829,Discount at special events
-569832,Discount at special events
+569832,Free meal
 569863,Meal voucher
 569883,Discount at special events
 569920,Free meal
 570021,Meal voucher
-570076,Free child ticket
+570076,Discount at special events
 570144,Discount at special events
 570162,Meal voucher
 570215,Meal voucher
@@ -3968,8 +3968,8 @@ user_id,recommended_offer
 571015,Discount at special events
 571084,Free meal
 571200,Meal voucher
-571208,Discount at special events
-571233,Free child ticket
+571208,Free meal
+571233,Discount at special events
 571243,Meal voucher
 571300,Meal voucher
 571348,Free meal
@@ -3979,7 +3979,7 @@ user_id,recommended_offer
 571523,Discount at special events
 571525,Meal voucher
 571553,Meal voucher
-571560,Free child ticket
+571560,Discount at special events
 571561,Free meal
 571566,Free child ticket
 571580,Free child ticket
@@ -4006,7 +4006,7 @@ user_id,recommended_offer
 572529,Discount at special events
 572538,Meal voucher
 572554,Meal voucher
-572578,Free child ticket
+572578,Discount at special events
 572591,Free child ticket
 572609,Discount at special events
 572632,Discount at special events
@@ -4037,19 +4037,19 @@ user_id,recommended_offer
 573427,Discount at special events
 573493,Discount at special events
 573518,Discount at special events
-573564,Free child ticket
+573564,Discount at special events
 573584,Meal voucher
 573588,Meal voucher
 573621,Free child ticket
 573648,Meal voucher
 573670,Meal voucher
-573698,Discount at special events
+573698,Free meal
 573704,Discount at special events
 573720,Meal voucher
 573792,Meal voucher
 573807,Discount at special events
 573841,Free meal
-573922,Free child ticket
+573922,Discount at special events
 573931,Meal voucher
 573939,Free meal
 573946,Meal voucher
@@ -4109,7 +4109,7 @@ user_id,recommended_offer
 576231,Free meal
 576272,Meal voucher
 576357,Free meal
-576366,Free child ticket
+576366,Discount at special events
 576369,Discount at special events
 576370,10% off next trip
 576373,Free meal
@@ -4125,7 +4125,7 @@ user_id,recommended_offer
 576945,Meal voucher
 576962,Free meal
 576966,Meal voucher
-576985,Free child ticket
+576985,Discount at special events
 577007,Free meal
 577046,Discount at special events
 577074,Discount at special events
@@ -4138,7 +4138,7 @@ user_id,recommended_offer
 577216,Free meal
 577225,Free child ticket
 577255,Free meal
-577287,Free child ticket
+577287,Discount at special events
 577356,Discount at special events
 577386,Free child ticket
 577410,Free meal
@@ -4149,13 +4149,13 @@ user_id,recommended_offer
 577625,Meal voucher
 577626,Discount at special events
 577638,Meal voucher
-577851,Discount at special events
+577851,Free meal
 577901,Free meal
 577915,Meal voucher
 577921,Free meal
 577930,Discount at special events
 577944,Free meal
-577984,Discount at special events
+577984,Free meal
 578058,Meal voucher
 578088,Meal voucher
 578120,Discount at special events
@@ -4213,20 +4213,20 @@ user_id,recommended_offer
 581239,Meal voucher
 581269,Discount at special events
 581307,Meal voucher
-581343,Discount at special events
+581343,Free meal
 581365,Meal voucher
 581385,Free meal
 581388,Meal voucher
 581409,Meal voucher
 581412,Meal voucher
-581438,Discount at special events
+581438,Free meal
 581461,Free meal
 581491,Free meal
 581527,Discount at special events
 581577,Meal voucher
 581666,Discount at special events
 581685,Discount at special events
-581721,Free child ticket
+581721,Discount at special events
 581770,Free meal
 581835,Meal voucher
 581858,Discount at special events
@@ -4250,7 +4250,7 @@ user_id,recommended_offer
 582768,Discount at special events
 582785,Meal voucher
 582796,Free meal
-582801,Free child ticket
+582801,Discount at special events
 582828,Meal voucher
 582833,Free child ticket
 582903,Free child ticket
@@ -4294,7 +4294,7 @@ user_id,recommended_offer
 584423,Meal voucher
 584459,Free meal
 584525,Meal voucher
-584530,Discount at special events
+584530,Free meal
 584531,Meal voucher
 584537,Discount at special events
 584549,Free meal
@@ -4332,7 +4332,7 @@ user_id,recommended_offer
 586122,Meal voucher
 586124,Meal voucher
 586192,Discount at special events
-586251,Discount at special events
+586251,Free meal
 586270,Free meal
 586272,Meal voucher
 586312,Meal voucher
@@ -4350,7 +4350,7 @@ user_id,recommended_offer
 586774,Discount at special events
 586803,Free meal
 586811,Meal voucher
-586820,Free child ticket
+586820,Discount at special events
 586850,Meal voucher
 586876,Meal voucher
 586887,Discount at special events
@@ -4370,8 +4370,8 @@ user_id,recommended_offer
 587698,Meal voucher
 587753,Free meal
 587754,Discount at special events
-587802,Discount at special events
-587810,Free child ticket
+587802,Free meal
+587810,Discount at special events
 587899,Free child ticket
 588013,Meal voucher
 588048,Discount at special events
@@ -4380,7 +4380,7 @@ user_id,recommended_offer
 588355,Discount at special events
 588370,Free meal
 588386,10% off next trip
-588391,Free child ticket
+588391,Discount at special events
 588414,Free child ticket
 588497,Meal voucher
 588507,Free meal
@@ -4396,7 +4396,7 @@ user_id,recommended_offer
 589140,Meal voucher
 589154,Discount at special events
 589162,Meal voucher
-589164,Free child ticket
+589164,Discount at special events
 589171,Discount at special events
 589228,Meal voucher
 589259,Free meal
@@ -4419,7 +4419,7 @@ user_id,recommended_offer
 590077,Meal voucher
 590095,Meal voucher
 590103,Discount at special events
-590123,Discount at special events
+590123,Free meal
 590130,Meal voucher
 590163,Meal voucher
 590202,Meal voucher
@@ -4462,7 +4462,7 @@ user_id,recommended_offer
 591746,Meal voucher
 591835,Free meal
 591888,Discount at special events
-592035,Free child ticket
+592035,Discount at special events
 592082,Discount at special events
 592132,Free meal
 592158,Discount at special events
@@ -4551,11 +4551,11 @@ user_id,recommended_offer
 596732,Free child ticket
 596820,Meal voucher
 596856,Free meal
-596863,Discount at special events
+596863,Free meal
 597003,Discount at special events
 597010,Free child ticket
 597029,Free meal
-597300,Free child ticket
+597300,Discount at special events
 597410,Meal voucher
 597434,Meal voucher
 597498,Meal voucher
@@ -4576,7 +4576,7 @@ user_id,recommended_offer
 598533,10% off next trip
 598590,Discount at special events
 598687,Meal voucher
-598691,Free child ticket
+598691,Discount at special events
 598692,Free meal
 598715,Discount at special events
 598832,Free meal
@@ -4586,12 +4586,12 @@ user_id,recommended_offer
 599065,Meal voucher
 599239,Free meal
 599311,Free meal
-599335,Free child ticket
+599335,Discount at special events
 599348,Meal voucher
 599437,Meal voucher
-599454,Free child ticket
+599454,Discount at special events
 599649,Free child ticket
-599765,Discount at special events
+599765,Free meal
 599833,Discount at special events
 599927,Meal voucher
 600011,Free child ticket
@@ -4599,7 +4599,7 @@ user_id,recommended_offer
 600057,Discount at special events
 600078,Meal voucher
 600163,Free meal
-600265,Discount at special events
+600265,Free meal
 600304,Discount at special events
 600351,Discount at special events
 600395,Discount at special events
@@ -4655,7 +4655,7 @@ user_id,recommended_offer
 603635,10% off next trip
 603715,Free meal
 603809,Free meal
-603875,Free child ticket
+603875,Discount at special events
 603883,Discount at special events
 604136,Free meal
 604355,Meal voucher
@@ -4719,7 +4719,7 @@ user_id,recommended_offer
 608764,Discount at special events
 608820,Free meal
 608823,Meal voucher
-608860,Free child ticket
+608860,Discount at special events
 608866,Discount at special events
 609051,Free child ticket
 609102,Meal voucher
@@ -4730,7 +4730,7 @@ user_id,recommended_offer
 609240,Meal voucher
 609243,Free meal
 609262,Meal voucher
-609393,Free child ticket
+609393,Discount at special events
 609413,Meal voucher
 609673,Discount at special events
 609720,Meal voucher
@@ -4743,7 +4743,7 @@ user_id,recommended_offer
 610280,Free meal
 610294,Discount at special events
 610306,Discount at special events
-610338,Discount at special events
+610338,Free meal
 610395,Discount at special events
 610474,Discount at special events
 610482,Free meal
@@ -4751,7 +4751,7 @@ user_id,recommended_offer
 610670,Meal voucher
 610763,Free meal
 610793,Meal voucher
-610806,Discount at special events
+610806,Free meal
 610909,Free child ticket
 611065,Meal voucher
 611087,Free meal
@@ -4819,7 +4819,7 @@ user_id,recommended_offer
 617402,Meal voucher
 617407,Free child ticket
 617458,Discount at special events
-617506,Discount at special events
+617506,Free meal
 617743,Free meal
 617878,Meal voucher
 617964,Free meal
@@ -4835,7 +4835,7 @@ user_id,recommended_offer
 618392,Free meal
 618418,Meal voucher
 618429,Meal voucher
-618535,Discount at special events
+618535,Free meal
 618664,Free meal
 618759,Free meal
 618780,Meal voucher
@@ -4852,7 +4852,7 @@ user_id,recommended_offer
 619918,Meal voucher
 619971,Free meal
 619983,Free meal
-620033,Discount at special events
+620033,Free meal
 620274,Discount at special events
 620300,Discount at special events
 620382,Free meal
@@ -4883,15 +4883,15 @@ user_id,recommended_offer
 623077,Free meal
 623087,Meal voucher
 623142,Discount at special events
-623691,Discount at special events
+623691,Free meal
 623750,Meal voucher
 623815,Meal voucher
 623850,Meal voucher
 623935,Free meal
 623941,Meal voucher
-623949,Free child ticket
+623949,Discount at special events
 623972,Free child ticket
-624198,Discount at special events
+624198,Free meal
 624215,Meal voucher
 624258,Discount at special events
 624497,Meal voucher
@@ -4902,7 +4902,7 @@ user_id,recommended_offer
 625030,Meal voucher
 625089,Meal voucher
 625398,Meal voucher
-625400,Free child ticket
+625400,Discount at special events
 625555,Free meal
 625597,Free meal
 625703,Meal voucher
@@ -4917,7 +4917,7 @@ user_id,recommended_offer
 627041,Meal voucher
 627158,Meal voucher
 627176,Free meal
-627436,Free child ticket
+627436,Discount at special events
 627451,Discount at special events
 627518,Meal voucher
 627617,Free meal
@@ -4938,7 +4938,7 @@ user_id,recommended_offer
 629725,Meal voucher
 629803,Meal voucher
 629812,Meal voucher
-629877,Free child ticket
+629877,Discount at special events
 629952,Meal voucher
 630039,Meal voucher
 630097,Discount at special events
@@ -4965,7 +4965,7 @@ user_id,recommended_offer
 632631,Meal voucher
 632665,Meal voucher
 632749,Discount at special events
-632965,Free child ticket
+632965,Discount at special events
 632988,Discount at special events
 633183,Meal voucher
 633195,Meal voucher
@@ -5011,14 +5011,14 @@ user_id,recommended_offer
 638598,Meal voucher
 638874,Discount at special events
 639009,Meal voucher
-639168,Discount at special events
+639168,Free meal
 639458,Meal voucher
 639510,Discount at special events
 639554,Meal voucher
 639571,Free meal
 639894,Free meal
 640580,Discount at special events
-640649,Free child ticket
+640649,Discount at special events
 640689,Meal voucher
 640715,Meal voucher
 640849,Discount at special events
@@ -5044,7 +5044,7 @@ user_id,recommended_offer
 643714,Discount at special events
 643929,Free meal
 644467,Free child ticket
-644784,Free child ticket
+644784,Discount at special events
 644870,Free meal
 645022,Free meal
 645047,Meal voucher
@@ -5070,14 +5070,14 @@ user_id,recommended_offer
 648379,Meal voucher
 648852,Discount at special events
 648983,Discount at special events
-648990,Free child ticket
+648990,Discount at special events
 649080,Free meal
 649081,Meal voucher
 649208,Meal voucher
 649378,Meal voucher
 650049,Free child ticket
 650055,Discount at special events
-650079,Free child ticket
+650079,Discount at special events
 650901,Free meal
 651030,Discount at special events
 651193,Free child ticket
@@ -5110,10 +5110,10 @@ user_id,recommended_offer
 655300,Meal voucher
 655499,Free meal
 656150,Discount at special events
-656346,Free child ticket
+656346,Discount at special events
 656422,Free child ticket
-656471,Free child ticket
-656560,Free child ticket
+656471,Discount at special events
+656560,Discount at special events
 656708,Discount at special events
 656873,Meal voucher
 656920,Free meal
@@ -5127,7 +5127,7 @@ user_id,recommended_offer
 659128,Discount at special events
 659161,Meal voucher
 659162,Meal voucher
-659360,Discount at special events
+659360,Free meal
 659664,Meal voucher
 659744,Free meal
 659832,Discount at special events
@@ -5151,19 +5151,19 @@ user_id,recommended_offer
 665329,Free child ticket
 665397,Discount at special events
 665505,Meal voucher
-665593,Free child ticket
+665593,Discount at special events
 665676,Meal voucher
 665746,Meal voucher
 665887,Free meal
 665892,Meal voucher
 666049,Free child ticket
 666174,Meal voucher
-666292,Discount at special events
+666292,Free meal
 666718,Discount at special events
 667536,Meal voucher
 667718,Meal voucher
 667916,Meal voucher
-667981,Discount at special events
+667981,Free meal
 668083,Free meal
 668172,Meal voucher
 668677,Free child ticket
@@ -5187,14 +5187,14 @@ user_id,recommended_offer
 672468,Discount at special events
 673076,Meal voucher
 673286,Free meal
-673874,Discount at special events
+673874,Free meal
 674375,Free meal
 675053,Meal voucher
 675201,Meal voucher
 675594,Meal voucher
 676373,Free meal
 676570,Free child ticket
-676762,Discount at special events
+676762,Free meal
 677209,Meal voucher
 677896,Free meal
 678536,Free meal
@@ -5202,7 +5202,7 @@ user_id,recommended_offer
 678888,Free child ticket
 679040,Free meal
 679047,Free meal
-679066,Free child ticket
+679066,Discount at special events
 679442,Meal voucher
 679611,Meal voucher
 679831,Meal voucher
@@ -5233,12 +5233,12 @@ user_id,recommended_offer
 689037,Meal voucher
 689374,Discount at special events
 689456,Free meal
-689624,Free child ticket
+689624,Discount at special events
 689984,Meal voucher
 690420,Discount at special events
 690422,Meal voucher
 691334,Meal voucher
-691541,Free child ticket
+691541,Discount at special events
 691546,Meal voucher
 692510,Discount at special events
 693301,Free meal
@@ -5252,7 +5252,7 @@ user_id,recommended_offer
 696475,Free meal
 697072,Meal voucher
 698291,Meal voucher
-698573,Free child ticket
+698573,Discount at special events
 699411,Discount at special events
 700028,Free meal
 700237,Meal voucher
@@ -5267,7 +5267,7 @@ user_id,recommended_offer
 705215,Free meal
 705310,Free child ticket
 707260,Discount at special events
-707525,Free child ticket
+707525,Discount at special events
 708887,Free meal
 710489,Free child ticket
 711391,Meal voucher
@@ -5293,7 +5293,7 @@ user_id,recommended_offer
 728820,Free meal
 730639,Free meal
 732729,Free meal
-733654,Free child ticket
+733654,Discount at special events
 734565,Discount at special events
 735029,Free child ticket
 736075,Meal voucher
@@ -5315,7 +5315,7 @@ user_id,recommended_offer
 763792,Free meal
 765745,Free meal
 767426,Free meal
-768291,Discount at special events
+768291,Free meal
 774666,Discount at special events
 777366,Meal voucher
 777846,Discount at special events
