@@ -10,7 +10,7 @@ Executive Summary : https://github.com/sultanmr/travel-tide/blob/main/Executive%
 
 Detailed Report  : https://github.com/sultanmr/travel-tide/blob/main/Detailed%20Report.pdf
 
-Presentation: https://docs.google.com/presentation/d/1L1LjqKBCG3Rz38pRKVDHpQuLg-FGRv4Oo77fXx_lMD4/edit?usp=sharing
+Presentation: https://github.com/sultanmr/travel-tide/blob/main/Presentation.pdf
 
 ## Overview
 TravelTide is a data-driven project aimed at analyzing user travel behavior to optimize targeted advertising and maximize company profits. The project integrates SQL, Python to perform user segmentation and recommendation modeling.
